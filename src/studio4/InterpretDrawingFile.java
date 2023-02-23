@@ -23,7 +23,7 @@ public class InterpretDrawingFile {
 		int redComponent=in.nextInt();
 		int greenComponent=in.nextInt();
 		int blueComponent=in.nextInt();
-		boolean isfilled=in.nextBoolean();
+		boolean isfilled=in.nextBoolean();`
 		double parametOne=in.nextDouble();
 		double parametTwo=in.nextDouble();
 		double parametThree=in.nextDouble();
